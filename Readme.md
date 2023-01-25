@@ -1,6 +1,6 @@
 # Description
 
-This repository contains a docker-compose configuration to start pgadmin application.
+This repository contains a docker-compose configuration to start `pgadmin` application.
 
 pgAdmin 4 is a web based administration tool for the PostgreSQL database.
 
@@ -13,7 +13,7 @@ You may adapt configuration via environment
 
 Further environment variables are described at https://www.pgadmin.org/docs/pgadmin4/development/container_deployment.html
 
-After start browser to `http://localhost:8080` and use login credentials specified in 
+After start browse to `http://localhost:8080` and use login credentials specified in 
 `PGADMIN_DEFAULT_EMAIL` and `PGADMIN_DEFAULT_PASSWORD`.
 
 # Health Check
